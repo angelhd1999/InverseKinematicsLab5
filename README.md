@@ -24,5 +24,5 @@ This is the **list of improvements** that I have made over the version obtained 
 - **Added brain** insted of the green sphere **to simulate the behavior of a zombie** (obtained  through the *asset store*).<br />
 - Added **sound effect of a breathing zombie**.<br />
 - **Illumination readjustment** to simulate **night**.<br />
-- **Camera angle and position readjustment**. Also changed the **bakcground color** to a dark blue.<br />
+- **Camera angle and position readjustment**. Also changed the **bakcground color** to a dark blue (night sky).<br />
 - **Changed text and font** to make the title of the scene: **Zombies Attack**<br />
